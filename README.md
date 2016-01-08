@@ -24,6 +24,6 @@ Configuration sample:
 Fields: 
 * "accessory": Must always be "NinjaBlock-Humidity" (required)
 * "humidity_url": Get the API Endpoint URL from the [NinjaBlocks Dashboard](https://a.ninja.is/home), add "?user_access_token=" and add your [API Access Token](https://a.ninja.is/hacking).
-*   Example: https://a.ninja.is/rest/v0/device/4412BB000300_0101_0_30?user_access_token=abc123"
+   Example: https://a.ninja.is/rest/v0/device/4412BB000300_0101_0_30?user_access_token=abc123"
 * "service": Must always be "Humidity Sensor" (required)
 * "name": Can be anything but is required
