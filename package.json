@@ -1,6 +1,6 @@
 {
   "name": "homebridge-ninjablock-humidity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Homebridge module to retrieve humidity information from the NinjaBlock cloud",
   "main": "index.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "url": "https://github.com/cbrandlehner/homebridge-ninjablock-humidity/issues"
   },
   "homepage": "https://github.com/cbrandlehner/homebridge-ninjablock-humidity#readme",
-  "_id": "homebridge-ninjablock-humidity@0.1.0",
+  "_id": "homebridge-ninjablock-humidity@0.1.1",
   "_from": "lib/node_modules/homebridge-ninjablock-humidity",
   "_resolved": "file:lib/node_modules/homebridge-ninjablock-humidity"
 }
