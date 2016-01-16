@@ -38,7 +38,7 @@ HttpAccessory.prototype = {
 		    informationService
       			.setCharacteristic(Characteristic.Manufacturer, "NinjaBlocks")
 			.setCharacteristic(Characteristic.Model, "NinjaBlock")
-			.setCharacteristic(Characteristic.SerialNumber, "n/a")
+			.setCharacteristic(Characteristic.SerialNumber, "0.1.1")
 		if (this.service == "Humidity Sensor") {
       			humidityService = new Service.HumiditySensor("Relative Humidity");
 			humidityService
